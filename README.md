@@ -1,2 +1,2 @@
 # XAI
-AIPI-590-XAI
+AIPI-590-XAI-Assignments
