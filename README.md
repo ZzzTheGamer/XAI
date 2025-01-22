@@ -35,11 +35,7 @@ The notebook contains EDA steps to evaluate initial assumptions about the datase
 
 ## Project Structure
 The repository contains the following key files and directories:
-```├── data/ # Directory containing the dataset (if applicable) 
-   ├── notebooks/ # Jupyter Notebooks with analysis and model implementations
-   │   ├── Assignment2_interpretable_ml.ipynb # Main notebook with code and analysis
-   ├── README.md # Project documentation
-   ├── requirements.txt # Dependencies required to run the project```
+```├── data/ # Directory containing the dataset (if applicable) ├── notebooks/ # Jupyter Notebooks with analysis and model implementations│   ├── Assignment2_interpretable_ml.ipynb # Main notebook with code and analysis├── README.md # Project documentation├── requirements.txt # Dependencies required to run the project```
   
 
 
