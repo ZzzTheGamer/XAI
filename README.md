@@ -3,10 +3,10 @@
 ## Project Overview:
 This project aims to generate local explanations for individual predictions from a pre-trained blackbox model using explanation techniques such as SHAP and LIME. The explanations help in understanding model behavior and providing interpretability in complex machine learning models.
 
-## Explanation Techniques Used:
+## Explanation Techniques Used
 We have employed Lime and Shap to interpret the image classification and text sentiment from InceptionV3 and Bert these two pretrained models.
 
-## Why These Techniques Were Chosen:
+## Why These Techniques Were Chosen
 1. Lime Strengths:
 * Model-agnostic and can work with any classifier.
 * Provides intuitive and human-understandable explanations.
