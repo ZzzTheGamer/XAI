@@ -26,12 +26,12 @@ We have employed Lime and Shap to interpret the image classification and text se
   ...
 
 ## How to Run the Code
-### To reproduce the results, follow these steps:
-### Install the required dependencies:
+* To reproduce the results, follow these steps:
+* Install the required dependencies:
 ```pip install shap tensorflow matplotlib lime```
-### Run the Jupyter Notebook provided to generate explanations for the model predictions.
+* Run the Jupyter Notebook provided to generate explanations for the model predictions.
 
 ## Files Included
-### Explainable_Techniques.ipynb – Contains the implementation of Shap and Lime for explaining predictions.
-### README.md – Explanation of the project, techniques used, and instructions.
+* Explainable_Techniques.ipynb – Contains the implementation of Shap and Lime for explaining predictions.
+* README.md – Explanation of the project, techniques used, and instructions.
 
