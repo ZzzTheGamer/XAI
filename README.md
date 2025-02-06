@@ -55,9 +55,6 @@ We use the **Pascal VOC 2012 dataset**, specifically focusing on images labeled 
 - **Test with different architectures** (e.g., ViTs, EfficientNet).
 - **Investigate adversarial effects** on Grad-CAM attention.
 
-## 📜 Citation
-If you use this code or dataset, please cite Pascal VOC 2012 and PyTorch’s pretrained ResNet-50 model.
-
 ## 💡 Contributors
 - **Junyu Zhang** - Initial implementation & analysis
 
