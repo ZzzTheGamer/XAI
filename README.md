@@ -12,7 +12,7 @@ This repository explores a key technique from the paper **"Towards Monosemantici
 - Understanding whether these activations can be **decomposed into independent features** provides insights into how Transformers process information.
 - Sparse autoencoders have shown promise in extracting **more interpretable representations** from deep neural networks.
 
-## **Implementation Plan**
+## **Overall Implementation Plan (not in order)**
 1. **Set up** and configure the Transformer model and data.
 2. **Implement a sparse autoencoder** to extract structured representations from MLP activations.
 3. **Train the autoencoder** on Transformer-generated activations.
