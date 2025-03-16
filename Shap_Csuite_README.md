@@ -1,6 +1,6 @@
 ## Credit Risk Prediction & Explainable AI (SHAP) Project
 
-### Explanation Method 1: Video Explaining SHAP Method to a C-suite Executive
+### Explanation Method 1: Video Explaining SHAP Method to a C-suite Executive (https://duke.box.com/s/pmd3vqdfk9fztq26ns8idsql9l5jlfay)
 
 In this video presentation, I explain the implementation and business impact of SHAP (SHapley Additive exPlanations) for credit risk assessment to senior executives.
 
