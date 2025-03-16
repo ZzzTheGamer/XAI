@@ -1,2 +1,0 @@
-# XAI
-AIPI-590-XAI
